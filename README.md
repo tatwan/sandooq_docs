@@ -1,37 +1,63 @@
-# Privacy Policy: Sandooq Al-Imara
+---
+layout: default
+---
 
-**Last Updated: April 3rd, 2026**
+<p align="center">
+  <img src="app_icon/master_1024.png" alt="Sandooq Logo" width="150" height="150" />
+</p>
 
-Your privacy is a priority at **Sandooq Al-Imara** (صندوق العمارة). We are committed to transparency in the way we handle your information and ensure that your data is used only for the purpose of managing your residential apartment funds.
+# Sandooq Al-Imara
 
-## 1. Information Collection
-We collect the minimum information required to operate the service:
-- **Phone Number**: Used for identity verification via SMS OTP and to link you to your specific building.
-- **Name**: Used within your building's directory so neighbors and the treasurer can identify who is making payments or voting.
-- **Apartment Number**: Used to track monthly fee payments and ensure financial records are accurate.
-- **Photos (Receipts)**: If you are a treasurer, you may upload photos of invoices/receipts. These are stored securely to provide transparency to your building members.
+<p align="center">
+  <strong>Transparency starts here. Digitizing your building's funds.</strong>
+</p>
 
-## 2. Use of Information
-The information we collect is used strictly for:
-- Providing and maintaining the **Sandooq** service.
-- Verifying your identity and building membership.
-- Facilitating building-wide communication and voting.
-- Processing and recording building-related financial transactions.
+<p align="center">
+  <a href="https://apps.apple.com/us/app/sandooq-al-imara/idYOUR_APP_ID">
+    <img src="https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store" />
+  </a>
+</p>
 
-## 3. Data Storage & Security
-We use industry-standard services to store and protect your data:
-- **Firebase (Google Cloud)**: For real-time database management and authentication.
-- **AWS (Amazon Web Services)**: For secure storage of invoice and receipt images.
-Your data is encrypted in transit and at rest using these providers' security protocols.
+<p align="center">
+  <img src="https://img.shields.io/badge/App_Version-1.0.0-blue.svg" alt="App Version" />
+  <img src="https://img.shields.io/badge/Platform-iOS-lightgrey.svg" alt="Platform iOS" />
+  <img src="https://img.shields.io/badge/Bilingual-Ar/En-teal.svg" alt="Bilingual" />
+</p>
 
-## 4. No Third-Party Tracking
-We do **not** sell your personal data to third parties. We do **not** use third-party advertising or tracking cookies. Your financial information and communication remain private to your building community.
+---
 
-## 5. Your Rights
-You can update your profile information (name and apartment) at any time within the app settings. If you wish to delete your account or have your data removed from a building's record, please contact the building treasurer or our support team.
+**Sandooq Al-Imara** (صندوق العمارة) is a transparent and democratic platform designed specifically for residential apartment buildings in Jordan. It digitizes the traditionally manual role of the building treasurer, replacing paper notebooks with a secure, bilingual dashboard that every resident can trust.
 
-## 6. Children's Privacy
-Our service is intended for adult residents and does not knowingly collect information from children.
+**No more notebooks. No more disputes. Full transparency for every resident.**
 
-## 7. Contact Us
-If you have any questions about this Privacy Policy, please contact us at **support@sandooq.com**.
+---
+
+## Key Features
+
+-   **💰 Real-time Budgeting**: View the building's current balance, along with detailed transaction history and donut charts for spending.
+-   **🗳️ Democratic Voting**: Propose and vote on building maintenance and expenses. Votes close automatically when a consensus is reached.
+-   **🧾 Digital Receipting**: All building costs are backed by high-quality photo evidence of invoices and receipts.
+-   **💬 Unified Communication**: Group chat for building announcements and private messaging for 1-to-1 neighbor discussions.
+-   **📢 Bilingual Support**: Fully localized in Arabic (RTL) and English.
+
+---
+
+## Frequently Asked Questions
+
+### 1. How do I join my building?
+Your building treasurer will share a unique 6-character code with you. Simply enter this code during your first sign-up.
+
+### 2. Is my data secure?
+Yes. We use Firebase (Google Cloud) for secure data synchronization and AWS for hosting receipt images. Your phone number is verified via SMS OTP for account security.
+
+### 3. I'm a treasurer, how do I start?
+Select "Create Building" during onboarding. You'll be set as the treasurer automatically and can immediately start recording fees and expenses.
+
+---
+
+## Support & Privacy
+
+-   **Support Email**: [support@sandooq.com](mailto:support@sandooq.com)
+-   **Privacy Policy**: [View Privacy Policy](./privacy.html)
+
+---
